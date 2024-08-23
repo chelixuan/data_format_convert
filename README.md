@@ -19,3 +19,8 @@
     - todo 轮廓：coco 格式 gt 可视化
 + 关键点
     - yolo 格式 landmarks gt 可视化
+
+## 视频图片相互转换
+ - 多个模型结果对比 concat_jpg
+ - 视频解帧 mp4_2_jpg
+ - 图片合成视频 jpg_2_mp4
