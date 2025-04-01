@@ -4,6 +4,7 @@
  - coco2yolo
  - voc2coco
  - coco2bdd
+ - coco_instance_json 2 coco_stuff_semantic_mat(只转换了 mat 字典中的 “S”)
 
 ## 标注工具格式转换
  - labelme 分割转 coco
